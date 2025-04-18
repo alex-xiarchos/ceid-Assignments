@@ -1,0 +1,394 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{Bakalis_2006}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=3e7a32c145951e8f36d11885acce7256}{%
+           family={Bakalis},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=35d42571c0074565c6f1f76f059c6fd2}{%
+           family={Iliopoulos},
+           familyi={I\bibinitperiod},
+           given={C.S.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f870f0985637ded73550c7f2b5b3be23}{%
+           family={Makris},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e7e2427201bed22f4f1e38e56196f6b1}{%
+           family={Sioutas},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ece7eefc8bd1ec5a3271a877ee44f52e}{%
+           family={Theodoridis},
+           familyi={T\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=18be5180a8eaf83307b41aff016ab9f6}{%
+           family={Tsakalidis},
+           familyi={T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7a626411ed719e822519878bf7a24bc2}{%
+           family={Tsichlas},
+           familyi={T\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{3dcf5c7938c5d2d0906c31addd980168}
+      \strng{fullhash}{964aeb63d7a179717cc2dce63ed88fe6}
+      \strng{fullhashraw}{964aeb63d7a179717cc2dce63ed88fe6}
+      \strng{bibnamehash}{3dcf5c7938c5d2d0906c31addd980168}
+      \strng{authorbibnamehash}{3dcf5c7938c5d2d0906c31addd980168}
+      \strng{authornamehash}{3dcf5c7938c5d2d0906c31addd980168}
+      \strng{authorfullhash}{964aeb63d7a179717cc2dce63ed88fe6}
+      \strng{authorfullhashraw}{964aeb63d7a179717cc2dce63ed88fe6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Computer Journal}
+      \field{month}{10}
+      \field{number}{2}
+      \field{title}{Locating maximal multirepeats in multiple strings under various constraints}
+      \field{volume}{50}
+      \field{year}{2006}
+      \field{pages}{178\bibrangedash 185}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1093/comjnl/bxl058
+      \endverb
+    \endentry
+    \entry{BugacoConversion}{misc}{}{}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeltitlesource}{title}
+      \field{title}{{Bugaco - RNA/RNA Sequence Converter}}
+      \verb{urlraw}
+      \verb https://meme-suite.org/meme/tools/meme
+      \endverb
+      \verb{url}
+      \verb https://meme-suite.org/meme/tools/meme
+      \endverb
+    \endentry
+    \entry{Choi_Lam_1997}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=3fd249fd02f7f6262671248939c617d8}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=86043ab35c1b68ec9d44598d3016e65e}{%
+           family={Lam},
+           familyi={L\bibinitperiod},
+           given={T.W.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{391198748c7df969db293fe939ddd778}
+      \strng{fullhash}{391198748c7df969db293fe939ddd778}
+      \strng{fullhashraw}{391198748c7df969db293fe939ddd778}
+      \strng{bibnamehash}{391198748c7df969db293fe939ddd778}
+      \strng{authorbibnamehash}{391198748c7df969db293fe939ddd778}
+      \strng{authornamehash}{391198748c7df969db293fe939ddd778}
+      \strng{authorfullhash}{391198748c7df969db293fe939ddd778}
+      \strng{authorfullhashraw}{391198748c7df969db293fe939ddd778}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information Processing Letters}
+      \field{month}{2}
+      \field{number}{4}
+      \field{title}{Dynamic suffix tree and two-dimensional texts management}
+      \field{volume}{61}
+      \field{year}{1997}
+      \field{pages}{213\bibrangedash 220}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/s0020-0190(97)00018-5
+      \endverb
+    \endentry
+    \entry{ClusterOmega}{misc}{}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{title}{{Cluster Omega}}
+      \verb{urlraw}
+      \verb https://www.ebi.ac.uk/jdispatcher/msa/clustalo
+      \endverb
+      \verb{url}
+      \verb https://www.ebi.ac.uk/jdispatcher/msa/clustalo
+      \endverb
+    \endentry
+    \entry{COBALT}{misc}{}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{title}{{COBALT}}
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/tools/cobalt/re_cobalt.cgi
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/tools/cobalt/re_cobalt.cgi
+      \endverb
+    \endentry
+    \entry{Cole_Hariharan_2005}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=10fd98843b865b270f346f515c064683}{%
+           family={Cole},
+           familyi={C\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0ca500d08f68aed706ed90f0c1213b06}{%
+           family={Hariharan},
+           familyi={H\bibinitperiod},
+           given={Ramesh},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{e4440c0697f003a7e7f1ada20f0b334f}
+      \strng{fullhash}{e4440c0697f003a7e7f1ada20f0b334f}
+      \strng{fullhashraw}{e4440c0697f003a7e7f1ada20f0b334f}
+      \strng{bibnamehash}{e4440c0697f003a7e7f1ada20f0b334f}
+      \strng{authorbibnamehash}{e4440c0697f003a7e7f1ada20f0b334f}
+      \strng{authornamehash}{e4440c0697f003a7e7f1ada20f0b334f}
+      \strng{authorfullhash}{e4440c0697f003a7e7f1ada20f0b334f}
+      \strng{authorfullhashraw}{e4440c0697f003a7e7f1ada20f0b334f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SIAM Journal on Computing}
+      \field{month}{1}
+      \field{number}{4}
+      \field{title}{Dynamic LCA queries on trees}
+      \field{volume}{34}
+      \field{year}{2005}
+      \field{pages}{894\bibrangedash 923}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1137/s0097539700370539
+      \endverb
+    \endentry
+    \entry{EBI}{misc}{}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeltitlesource}{title}
+      \field{title}{{EBI}}
+      \verb{urlraw}
+      \verb https://www.ebi.ac.uk/
+      \endverb
+      \verb{url}
+      \verb https://www.ebi.ac.uk/
+      \endverb
+    \endentry
+    \entry{Needle}{misc}{}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeltitlesource}{title}
+      \field{title}{{EMBOSS Needle}}
+      \verb{urlraw}
+      \verb https://meme-suite.org/meme/tools/meme
+      \endverb
+      \verb{url}
+      \verb https://meme-suite.org/meme/tools/meme
+      \endverb
+    \endentry
+    \entry{GalaxyFastQQualityFliter}{misc}{}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeltitlesource}{title}
+      \field{title}{{Galaxy FastQ Quality Filter}}
+      \verb{urlraw}
+      \verb https://usegalaxy.org/root?tool_id=cshl_fastq_quality_filter
+      \endverb
+      \verb{url}
+      \verb https://usegalaxy.org/root?tool_id=cshl_fastq_quality_filter
+      \endverb
+    \endentry
+    \entry{GenBank}{misc}{}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeltitlesource}{title}
+      \field{title}{{GenBank}}
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/genbank/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/genbank/
+      \endverb
+    \endentry
+    \entry{Lalign}{misc}{}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{title}
+      \field{title}{{Lalign}}
+      \verb{urlraw}
+      \verb https://www.ebi.ac.uk/jdispatcher/psa/lalign/
+      \endverb
+      \verb{url}
+      \verb https://www.ebi.ac.uk/jdispatcher/psa/lalign/
+      \endverb
+    \endentry
+    \entry{McCreight_1976}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=faf1d418eb1c89d2cd64e722911f08b1}{%
+           family={McCreight},
+           familyi={M\bibinitperiod},
+           given={Edward\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{faf1d418eb1c89d2cd64e722911f08b1}
+      \strng{fullhash}{faf1d418eb1c89d2cd64e722911f08b1}
+      \strng{fullhashraw}{faf1d418eb1c89d2cd64e722911f08b1}
+      \strng{bibnamehash}{faf1d418eb1c89d2cd64e722911f08b1}
+      \strng{authorbibnamehash}{faf1d418eb1c89d2cd64e722911f08b1}
+      \strng{authornamehash}{faf1d418eb1c89d2cd64e722911f08b1}
+      \strng{authorfullhash}{faf1d418eb1c89d2cd64e722911f08b1}
+      \strng{authorfullhashraw}{faf1d418eb1c89d2cd64e722911f08b1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the ACM}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{A space-economical suffix tree construction algorithm}
+      \field{volume}{23}
+      \field{year}{1976}
+      \field{pages}{262\bibrangedash 272}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1145/321941.321946
+      \endverb
+    \endentry
+    \entry{MEME}{misc}{}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{title}{{MEME - Multiple Em for Motif Elicitation}}
+      \verb{urlraw}
+      \verb https://meme-suite.org/meme/tools/meme
+      \endverb
+      \verb{url}
+      \verb https://meme-suite.org/meme/tools/meme
+      \endverb
+    \endentry
+    \entry{NCBI}{misc}{}{}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labeltitlesource}{title}
+      \field{title}{{NCBI}}
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/
+      \endverb
+    \endentry
+    \entry{SMS2}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{{Sequence Manipulation Suite, Version 2}}
+      \verb{urlraw}
+      \verb https://www.bioinformatics.org/sms2/
+      \endverb
+      \verb{url}
+      \verb https://www.bioinformatics.org/sms2/
+      \endverb
+    \endentry
+    \entry{GenBankToFASTA}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{{SMS - GenBank to FASTA}}
+      \verb{urlraw}
+      \verb https://www.bioinformatics.org/sms2/genbank_fasta.html
+      \endverb
+      \verb{url}
+      \verb https://www.bioinformatics.org/sms2/genbank_fasta.html
+      \endverb
+    \endentry
+    \entry{Translate}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{title}{{SMS - Translate}}
+      \verb{urlraw}
+      \verb https://www.bioinformatics.org/sms2/translate.html
+      \endverb
+      \verb{url}
+      \verb https://www.bioinformatics.org/sms2/translate.html
+      \endverb
+    \endentry
+    \entry{TCoffee}{misc}{}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{title}{{T-Coffee}}
+      \verb{urlraw}
+      \verb https://tcoffee.crg.eu/apps/tcoffee/do:regular
+      \endverb
+      \verb{url}
+      \verb https://tcoffee.crg.eu/apps/tcoffee/do:regular
+      \endverb
+    \endentry
+    \entry{Ukkonen_1995}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=c47059158bf7f2bcb803c9b951856e5e}{%
+           family={Ukkonen},
+           familyi={U\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{c47059158bf7f2bcb803c9b951856e5e}
+      \strng{fullhash}{c47059158bf7f2bcb803c9b951856e5e}
+      \strng{fullhashraw}{c47059158bf7f2bcb803c9b951856e5e}
+      \strng{bibnamehash}{c47059158bf7f2bcb803c9b951856e5e}
+      \strng{authorbibnamehash}{c47059158bf7f2bcb803c9b951856e5e}
+      \strng{authornamehash}{c47059158bf7f2bcb803c9b951856e5e}
+      \strng{authorfullhash}{c47059158bf7f2bcb803c9b951856e5e}
+      \strng{authorfullhashraw}{c47059158bf7f2bcb803c9b951856e5e}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Algorithmica}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{On-line construction of suffix trees}
+      \field{volume}{14}
+      \field{year}{1995}
+      \field{pages}{249\bibrangedash 260}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/bf01206331
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{FastQC}
+\endrefsection
+\endinput
+
